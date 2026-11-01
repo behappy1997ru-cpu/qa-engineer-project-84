@@ -1,7 +1,7 @@
 ---
 # Если хотите пояснить код, можно добавить комментарий с помощью символа #
 name: Misha 
-  lastname: Morozov
+  lastName: Morozov
 job: QA Engineer
 level: junior
 email: mesha-2010@mail.ru
